@@ -12,8 +12,12 @@ planning.
 ### Current State -- Development
 
 ### Technologies Used
-* ##### React
+* ##### MongoDB
+* ##### Express.js
+* ##### React.js
+* ##### Node.js
 * ##### Google Maps API
 * ##### Bootstrap
+
 
 
